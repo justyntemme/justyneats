@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo tranquilpeak theme</title>
-    <link>https://example.org/post/</link>
-    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <title>Posts on Wichita&#39;s Best Food in One Place</title>
+    <link>https://justyneats.com/post/</link>
+    <description>Recent content in Posts on Wichita&#39;s Best Food in One Place</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Apr 2018 08:41:32 -0500</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://justyneats.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://example.org/2018/04/welcome/</link>
+      <link>https://justyneats.com/2018/04/welcome/</link>
       <pubDate>Thu, 12 Apr 2018 08:41:32 -0500</pubDate>
       
-      <guid>https://example.org/2018/04/welcome/</guid>
+      <guid>https://justyneats.com/2018/04/welcome/</guid>
       <description></description>
     </item>
     
